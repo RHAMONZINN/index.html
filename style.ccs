@@ -1,0 +1,11 @@
+p{
+    text-aling: center;
+}
+
+body{
+    background: #cccccc;
+}
+
+strong{
+    color: red;
+}
